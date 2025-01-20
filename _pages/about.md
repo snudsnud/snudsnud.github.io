@@ -23,16 +23,16 @@ b. 2000, Sydney, Australia
 
 
 
-| **MEDIA**     |       |
+| **SOLO EXHIBITIONS** |       |
 | ------------- | -----|
-| 2024    | [Byte into IT Podcast Interview <br /> What does Quilting have to do with Data?](https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/7872-what-does-quilting-have-to-do-with-data)
-| 2018    | [Sun Xun interview with MCA Young Guides](https://www.mca.com.au/stories-and-ideas/sun-xun-interview-mca-young-guides/) |
+| 2024                | [*Touching Wires*](https://4a.com.au/exhibitions/touching-wires) <br /> 4A LAB, 4A Centre for Contemporary Asian Art, Sydney. |
 
 
 
-
-| **SOLO EXHIBITIONS**            |       |
+| **MEDIA**        |       |
 | ------------- | -----|
-| 2024                            | [*Touching Wires*](https://4a.com.au/exhibitions/touching-wires) <br /> 4A LAB, 4A Centre for Contemporary Asian Art, Sydney. |
+| 2024             | [Byte into IT Podcast Interview <br /> What does Quilting have to do with Data?](https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/7872-what-does-quilting-have-to-do-with-data) |
+| 2018             | [Sun Xun interview with MCA Young Guides](https://www.mca.com.au/stories-and-ideas/sun-xun-interview-mca-young-guides/) |
+
 
 
