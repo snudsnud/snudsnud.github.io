@@ -12,7 +12,7 @@ menu_settings:
     - title: 'Selected Works'
       url: '/'
     - title: 'Bio'
-      url: '/bio/'
+      url: '/bio'
     - title: 'CV'
       url: '/about'
     # - title: 'Contact'
