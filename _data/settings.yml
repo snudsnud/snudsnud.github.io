@@ -71,46 +71,46 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">'
-  title_font: '"Josefin Sans", Thin'
-  body_font: '"Josefin Sans", Thin'
-  regular_weight: 50
-  bold_weight: 100
+  title_font: '"Josefin Sans", Light'
+  body_font: '"Josefin Sans", Light'
+  regular_weight: 150
+  bold_weight: 200
   site_title:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 150
+    weight: 200
     letter_spacing: -0.02
   site_tagline:
     small_size: 12
     medium_size: 14
     large_size: 16
-    weight: 200
+    weight: 300
     letter_spacing: 0
     line_height: 1.5
   menu:
     small_size: 30
     medium_size: 15
     large_size: 16
-    weight: 150
+    weight: 200
     letter_spacing: 0
   grid_item_title:
     small_size: 22
     medium_size: 26
     large_size: 30
-    weight: 150
+    weight: 200
     letter_spacing: -0.02
   grid_item_subtitle:
     small_size: 15
     medium_size: 16
     large_size: 17
-    weight: 100
+    weight: 150
     letter_spacing: 0
   h1:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 400
+    weight: 350
     letter_spacing: -0.02
     line_height: 1.2
   h2:
