@@ -210,6 +210,8 @@
   			text-align: left;
 			font-size: $p-small;
 			font-weight: $p-weight;
+			vertical-align: top;
+
 
 			@include mq(tabletp) {
 				padding: 15px;
@@ -222,6 +224,8 @@
 		
 		tbody tr {
 			background: $background-alt-color;
+			vertical-align: top;
+
 
 			// &:nth-child(2n) {
 			// 	background: $background-alt-color;

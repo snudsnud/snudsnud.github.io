@@ -15,15 +15,15 @@ menu_settings:
       url: '/bio'
     - title: 'CV'
       url: '/about'
-    # - title: 'Contact'
-    #   url: '/contact'
+    - title: 'Words'
+      url: '/blog'
 
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 20
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/xzzdklab'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
@@ -41,7 +41,7 @@ social_settings:
   quora_url: ''
   amazon_url: ''
   apple_url: ''
-  android_url: 'mailto:sandy@snud.me'
+  android_url: ''
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
