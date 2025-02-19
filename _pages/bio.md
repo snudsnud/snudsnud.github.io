@@ -1,7 +1,7 @@
 ---
 title: BIO
 subtitle: ''
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+description: Sandy's bio.
 featured_image: /images/headshot_sma.jpg
 ---
 ![sandy](/images/headshot_sma.jpg)

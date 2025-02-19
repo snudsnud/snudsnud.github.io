@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: 
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+description: Contact Sandy.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
