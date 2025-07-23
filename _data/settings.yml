@@ -1,6 +1,6 @@
 basic_settings:
   site_title: SANDY MA
-  site_tagline: Sandy Ma (she/they) is a multidisciplinary artist and educator living and working on unceded Ngunnawal/Ngambri Country. 
+  site_tagline: Sandy Ma (she/they) is an emerging multidisciplinary artist and educator living and working on unceded Ngunnawal/Ngambri Country. 
   favicon_image: /images/favicon-32x32.png
 
 header_settings:
@@ -156,11 +156,11 @@ font_settings:
     letter_spacing: 0.02
     line_height: 1.6
   blockquote:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
-    weight: 100
-    letter_spacing: -0.02
+    small_size: 16
+    medium_size: 18
+    large_size: 20
+    weight: 500
+    letter_spacing: 0.02
     line_height: 1.6
   buttons:
     weight: 200
