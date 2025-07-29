@@ -8,7 +8,9 @@ featured_image: '/images/pojing0.jpg'
 
 ![](/images/pojing0.jpg)
 
-***破境 [pò jìng] // beyond realms. (2023)***
+***破境 [pò jìng] // beyond realms.***
+
+**2023**
 
 **augmented reality synthesiser, physical synthesiser**
 

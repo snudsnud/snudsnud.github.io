@@ -10,7 +10,9 @@ featured_image: '/images/Touching Wires - 02.jpg'
 ![](/images/MayPerformance_setup.jpg)
 
 
-***Touching Wires (2024)***[^1]
+***Touching Wires***[^1]
+
+**2024**
 
 **found textiles, electronics**
 

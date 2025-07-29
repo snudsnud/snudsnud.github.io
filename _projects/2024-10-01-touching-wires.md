@@ -10,7 +10,9 @@ featured_image: '/images/4alab_opening.jpg'
 
 
 
-***Touching Wires (2024)***[^1]
+***Touching Wires ***[^1]
+
+**2024**
 
 **found textiles, recycled wooden palettes, electronics**
 

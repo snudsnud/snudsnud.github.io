@@ -9,7 +9,9 @@ featured_image: '/images/promptengineering.jpg'
 
 ![](/images/promptengineering.jpg)
 
-***Prompt Engineering (2024)***
+***Prompt Engineering***
+
+**2024**
 
 **textiles**
 

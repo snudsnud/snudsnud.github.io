@@ -8,7 +8,10 @@ featured_image: '/images/dialoguesinspace.jpg'
 
 ![](/images/dialoguesinspace.jpg)
 
-***Dialogues in Space (A response to the big wide realm of nothingness in the sky) (2022)***
+***Dialogues in Space (A response to the big wide realm of nothingness in the sky)***
+
+**2022**
+
 **PureData, Gibber, 802 Telephone, Micro:bit**
 
 Dialogues in Space is an ode to the empty hollowness of space. Equipped with digital synthesisers, performers are able to communicate through the hollows of space.

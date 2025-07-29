@@ -155,6 +155,7 @@
 
 	.highlight {
 		display: block;
+		background-color: #003049;
 		padding: 0;
 		line-height: 1.5;
 		font-size: $p-small*0.85;
@@ -184,6 +185,7 @@
 
 	.table-wrap {
 		// display: block;
+		padding-left: 20px;
 		width: 100%;
 		// overflow-x: auto;
 	}
@@ -203,24 +205,39 @@
 			th {
 				font-weight: $bold-weight;
 			}
+
+			thead tr:first-child th:first-child,
+			thead tr:first-child td:first-child {
+  				border-right: none;
+			}	
 		}
+		
 
 		th, td {
-			padding: 10px;
+			padding: 5%;
   			text-align: left;
 			font-size: $p-small;
 			font-weight: $p-weight;
 			vertical-align: top;
+			border-bottom: 0.5px dashed #ddd;
 
 
 			@include mq(tabletp) {
-				padding: 15px;
+				padding: 2%;
 			}
 
 			@include mq(laptop) {
-				padding: 20px;
+				padding: 2%;
+			}
+
+			&:first-child {
+				width: 12%; 
+			max-width: 12%;
+			border-right: 1px solid #ddd;
 			}
 		}
+
+		
 		
 		tbody tr {
 			background: $background-alt-color;
