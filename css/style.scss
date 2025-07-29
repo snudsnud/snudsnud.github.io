@@ -1,15 +1,12 @@
 ---
 ---
 
-// - - - - - - - - - - Foundations
 
 @import "_reset";
 @import "_mixins";
 @import "_plugins";
 
 
-
-// - - - - - - - - - - Variables
 
 
 // Colors
@@ -144,7 +141,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 
 
-// - - - - - - - - - - Global styles
+
 
 @import "_basic";
 
@@ -159,7 +156,6 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 
 
-// - - - - - - - - - - Section styles
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
