@@ -23,14 +23,12 @@ ongoing
 
 other 
 
+| 2025  | Human Computer Interaction, Tutor, Australian National University, Kamberri/Canberra ACT. |
 | 2025  | [AnOther Home](https://rebustheatre.com/programs/another-home/), Artist Facilitator, Rebus Theatre, Kamberri/Canberra ACT. |
 | 2025  | Creative Computing (EXTN1019), Teacher, Australian National University, Kamberri/Canberra ACT. |
-| 2025  | Human Computer Interaction, Tutor, Australian National University, Kamberri/Canberra ACT. |
-| 2025  | Sound and Music Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
+| 2023/25  | Sound and Music Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
 | 2025  | Software Engineering Project, Tutor, Australian National University, Kamberri/Canberra ACT. |
-| 2023  | Art and Interaction Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
-| 2023  | Sound and Music Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
-| 2022  | Art and Interaction Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
+| 2022/23  | Art and Interaction Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
 
 ### SELECT EXHIBITIONS
 
