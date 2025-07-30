@@ -10,8 +10,8 @@ b. 2000, Gadigal/Sydney, Australia
 ### EDUCATION
 
 | 2025 - | Doctor of Philosophy <br /> School of Computing, Australian National University |
-| 2024  | Bachelor of Advanced Computing (Honours) <br /> Systems & Architecture, Australian National University  |
-| 2024 | Bachelor of Arts <br />  Art History & Theory, Australian National University|
+| 2019 - 24  | Bachelor of Advanced Computing (Honours) <br /> Systems & Architecture, Australian National University  |
+| 2019 - 24 | Bachelor of Arts <br />  Art History & Theory, Australian National University|
 
 
 ### TEACHING & WORKSHOPS
