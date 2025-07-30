@@ -49,7 +49,8 @@ other
 
 ### MEDIA
 
-| 2024             | [Byte into IT Podcast Interview <br /> What does Quilting have to do with Data?](https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/7872-what-does-quilting-have-to-do-with-data) |
+| 2024             | [What does Quilting have to do with Data?, Byte into IT Podcast Interview (Triple R 102.7FM)](https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/7872-what-does-quilting-have-to-do-with-data) |
+| 2024 | [What’s that sound? A duet of humans and AI in concert, ANU College of Systems & Society](https://systems.anu.edu.au/news/2024/07/05/what-s-that-sound-a-duet-of-humans-and-ai-in-concert/) |
 | 2018             | [Sun Xun interview with MCA Young Guides](https://www.mca.com.au/stories-and-ideas/sun-xun-interview-mca-young-guides/) |
 
 
