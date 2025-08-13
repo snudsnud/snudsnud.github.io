@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{{ page.title }}</title>
+
+  <!-- Reveal.js Styles -->
+  <link rel="stylesheet" href="{{ '/assets/reveal.js-master/dist/reveal.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/reveal.js-master/dist/theme/black.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/reveal.js-master/plugin/highlight/monokai.css' | relative_url }}">
+</head>
+<body>
+
+  <div class="reveal">
+    <div class="slides">
+      {{ content }}
+    </div>
+  </div>
+
+  <!-- Reveal.js Scripts -->
+  <script src="{{ '/assets/reveal.js-master/dist/reveal.js' | relative_url }}"></script>
+  <script src="{{ '/assets/reveal.js-master/plugin/markdown/markdown.js' | relative_url }}"></script>
+  <script src="{{ '/assets/reveal.js-master/plugin/highlight/highlight.js' | relative_url }}"></script>
+  <script src="{{ '/assets/reveal.js-master/plugin/notes/notes.js' | relative_url }}"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+    });
+  </script>
+
+</body>
+</html>
