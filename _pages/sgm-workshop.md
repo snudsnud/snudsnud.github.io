@@ -33,22 +33,64 @@ The afternoon session will follow this structure:
 
 ### Introduction
 
-Overview of embroidery, embroidery hoops, needles and thread, basic stitches. 
+- Brief welcome and overview of the session.
+- Emphasis on creative exploration, collaboration, and multisensory memory-making.
 
-Overview of electronics and copper tape. Introduction to the circuit they'll be plugging into. 
+#### Introducing Embroidery 
 
-Directive for artmaking:
+##### Materials Overview
+- **Embroidery Hoops** – how to secure fabric, with the option to flip for easier drawing.
+- **Needles & Threads** – thread types, threading tips, and basic handling.
+- **Basic Stitches** – quick demo of:
+  - Running stitch
+  - Backstitch
+  - Satin stitch
 
-- Take elements of your blind drawing and transpose it onto fabric as a start. You might like to put the fabric upside down in the hoop for an easier surface to draw on. 
-- You might like to include some words of the specific reflections you had this morning.
-- Consider the different senses in this memory, and how you might like to fill the space in your embroidery hoop. 
-- Consider where you might like to put copper tape in this design. You can also satin stich over the copper tape to hide it away. 
+Tips:
+ 
+- Flipping the hoop upside down can offer a smoother surface for initial sketching with thread.
+- Don’t worry about perfection — embrace expressive, gestural stitches.
 
-Collaborate:
 
-- On the table at the front, there is space for you to connect your circuit to others peoples', or connect straight into the Bela to make noises. 
-- Offer to jam? Improvise?? 
+#### Introduction to Electronics + Copper Tape
 
-Playing and sharing, make sure you have a full connection in your circuit and a point we can clip to. 
+- Basics of circuits using **copper tape**.
+- How copper tape integrates into the embroidery process.
+- Introduction to the **circuit layout** you'll be plugging into.
+- Brief explanation of the **Bela** board for sound activation.
+
+
+#### Directive for Art-Making: Memory, Senses & Stitching
+
+Use your hoop to explore and express memory, combining stitching and simple circuits.
+
+##### Prompts:
+- **Transpose your blind drawing** onto fabric.
+- Add **text or reflections** from this morning’s session.
+- Think about different **senses** in your memory — how might they influence form, color, or texture?
+- Plan your **copper tape layout**:
+  - Visualize the path of your circuit.
+  - Use **satin stitch** to hide the tape if desired.
+
+
+#### Collaborate & Connect
+
+##### At the Collaboration Table:
+- Connect your circuit with others'.
+- Plug into the **Bela** to create interactive sounds.
+- Improvise, jam, and explore collective compositions.
+
+##### Before Sharing:
+- Ensure your circuit has:
+  - A **full connection**
+  - A **clip point** for Bela
+- Test your circuit with others — what does it activate? What do you discover?
+
+### Wrap up 
+
+- Walk around and interact with others’ designs.
+- Optional: End with a group reflection — what emerged in the making process?
+
+
 
 
