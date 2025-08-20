@@ -8,7 +8,7 @@
 
   <!-- Reveal.js Styles -->
   <link rel="stylesheet" href="{{ '/assets/reveal.js-master/dist/reveal.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/reveal.js-master/dist/theme/black.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/reveal.js-master/dist/theme/snud.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/reveal.js-master/plugin/highlight/monokai.css' | relative_url }}">
 </head>
 <body>
@@ -27,6 +27,9 @@
 
   <script>
     Reveal.initialize({
+      width: 1200,
+      height: 700,
+      margin: 0.02,
       hash: true,
       plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
     });
