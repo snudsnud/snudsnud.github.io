@@ -136,17 +136,33 @@ Discuss in pairs or small groups if you have time. We will use this memory as a 
 
 ### Basic Stitches
 
+<div class="image-row">
+  <img src="/images/slides/stitches/running.png" alt="Image 1" />
+</div>
+
+<caption><i>From Stitched Stories - <a href="https://stitchedstories.com/free-printable-pocket-guide-to-embroidery-stitches/">Embroidery stitches guide</a></i></caption>
 
 ---
 
+### Basic Stitches
+
+<div class="image-row">
+  <img src="/images/slides/stitches/back.png" alt="Image 1" />
+  <img src="/images/slides/stitches/satin.png" alt="Image 1" />
+  <img src="/images/slides/stitches/chain.png" alt="Image 1" />
+  <caption><i>From Muse of the Morning - <a href="https://museofthemorning.com/site/free-printable-lil-book-of-hand-embroidery-stitches-pocket-size-stitch-guide/">Embroidery stitches guide</a></i></caption>
+</div>
+
+---
 
 ### Reminders about electronics
 
+- Make sure two circuits don't cross over each other! 
 
 ---
 
 
-##### Make!
+### Make!
 
 - **Transpose your blind drawing** onto fabric.
 - Add **text or reflections** from this morning’s session.
@@ -155,3 +171,12 @@ Discuss in pairs or small groups if you have time. We will use this memory as a 
   - Visualize the path of your circuit.
   - Use **satin stitch** to hide the tape if desired.
 
+---
+
+### Thank you! 
+
+<img src="/images/researchmailinglist.png" alt="QR code" class="center">
+
+
+#### Sandy Ma
+##### [snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart)
