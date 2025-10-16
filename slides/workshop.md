@@ -7,7 +7,11 @@ permalink: /slides/workshop/
 <section data-markdown>
 <script type="text/template">
 
+<<<<<<< HEAD
 ## Hyperfocus Workshop
+=======
+## Amplified Textiles Workshop
+>>>>>>> a70e86d (wokrshop slides)
 ## at Science Gallery Melbourne!
 
 _*18 October, 2025*_
@@ -43,11 +47,16 @@ _*18 October, 2025*_
 
 </div>
 
+<<<<<<< HEAD
 
 <div style="display: flex; justify-content: space-between;">
   <span>Artist | Educator | Researcher</span>
   <span><a href="https://snud.me">snud.me</a> || <a href="https://instagram.com/snudart">@snudart</a></span>
 </div>
+=======
+#### Artist | Educator | Researcher [[snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart)]{style="float:right"}
+
+>>>>>>> a70e86d (wokrshop slides)
 
 ---
 
@@ -97,23 +106,37 @@ _*18 October, 2025*_
   <img src="/images/touchingwires/mymum.jpg" alt="Image 1" width=25%/>
   <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
 </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> a70e86d (wokrshop slides)
 ---
 
 ### Workshop session overview 
 
+<<<<<<< HEAD
 - Drawing
+=======
+- Blind drawing activity
+>>>>>>> a70e86d (wokrshop slides)
 - Introduction to embroidery
 - Introduction to circuits
 - Make and play! 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a70e86d (wokrshop slides)
 ---
 
 
 ### Blind Contour Drawing
 
+<<<<<<< HEAD
 Draw a computer or digital technology that played an important role in your early life — maybe your first computer, a family gaming console, or even an old mobile phone. Do this without looking at the surface while you draw (you can peek when you’re done!).
+=======
+Draw a computer or digital technology that played an important role in your early life — maybe your first computer, a family gaming console, or even an old mobile phone. Do this without looking at the paper while you draw (you can peek when you’re done!).
+>>>>>>> a70e86d (wokrshop slides)
 
 
 ---
@@ -121,7 +144,11 @@ Draw a computer or digital technology that played an important role in your earl
 
 ### Blind Contour Drawing
 
+<<<<<<< HEAD
 Once you’ve finished your drawing, take a few minutes to think about:
+=======
+Once you’ve finished your drawing, take a few minutes to write about:
+>>>>>>> a70e86d (wokrshop slides)
 
 - What is this technology?
 - What role did it play in your life?
@@ -129,9 +156,12 @@ Once you’ve finished your drawing, take a few minutes to think about:
 
 Discuss in pairs or small groups if you have time. We will use this memory as a basis for our afternoon workshop making.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> a70e86d (wokrshop slides)
 ---
 
 ### Basic Stitches
@@ -164,14 +194,22 @@ Discuss in pairs or small groups if you have time. We will use this memory as a 
 
 ### Make!
 
+<<<<<<< HEAD
 - Add **text or reflections** from earlier discussion.
+=======
+- **Transpose your blind drawing** onto fabric.
+- Add **text or reflections** from this morning’s session.
+>>>>>>> a70e86d (wokrshop slides)
 - Think about different **senses** in your memory — how might they influence form, color, or texture?
 - Plan your **copper tape layout**:
   - Visualize the path of your circuit.
   - Use **satin stitch** to hide the tape if desired.
 
+<<<<<<< HEAD
 We are here to help! Put your hand up if you need a hand from any of us :) 
 
+=======
+>>>>>>> a70e86d (wokrshop slides)
 ---
 
 ### Thank you! 
