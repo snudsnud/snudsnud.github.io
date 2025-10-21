@@ -3,7 +3,9 @@ layout: slides
 title: Artist Slides
 permalink: /slides/introduction/
 ---
-
+<section data-markdown>
+<script type="text/template">
+  
 ## Hello! I'm Sandy
 
 <style>
