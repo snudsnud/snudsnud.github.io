@@ -84,21 +84,17 @@ permalink: /slides/introduction/
   <img src="/images/touchingwires/mymum.jpg" alt="Image 1" width=25%/>
   <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
 </div>
+
 ---
 
-### Workshop session overview 
-
-- Drawing
-- Introduction to embroidery
-- Introduction to circuits
-- Make and play! 
+### Introduction to equipment
 
 ---
 
 
 ### Blind Contour Drawing
 
-Draw a computer or digital technology that played an important role in your early life — maybe your first computer, a family gaming console, or even an old mobile phone. Do this without looking at the surface while you draw (you can peek when you’re done!).
+Draw a computer or digital technology that you identify with. Do this without looking at the surface while you draw (you can peek when you’re done!).
 
 
 ---
@@ -109,11 +105,8 @@ Draw a computer or digital technology that played an important role in your earl
 Once you’ve finished your drawing, take a few minutes to think about:
 
 - What is this technology?
-- What role did it play in your life?
-- How do you feel about it now?
-
-
-
+- What role has it played in your life?
+- How do you feel about it?
 
 
 ---
@@ -136,25 +129,6 @@ Once you’ve finished your drawing, take a few minutes to think about:
   <img src="/images/slides/stitches/chain.png" alt="Image 1" />
   <caption><i>From Muse of the Morning - <a href="https://museofthemorning.com/site/free-printable-lil-book-of-hand-embroidery-stitches-pocket-size-stitch-guide/">Embroidery stitches guide</a></i></caption>
 </div>
-
----
-
-### Reminders about electronics
-
-- Make sure two circuits don't cross over each other! 
-
----
-
-
-### Make!
-
-- Add **text or reflections** from earlier discussion.
-- Think about different **senses** in your memory — how might they influence form, color, or texture?
-- Plan your **copper tape layout**:
-  - Visualize the path of your circuit.
-  - Use **satin stitch** to hide the tape if desired.
-
-
 
 ---
 
