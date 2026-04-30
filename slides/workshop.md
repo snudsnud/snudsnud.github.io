@@ -7,14 +7,10 @@ permalink: /slides/workshop/
 <section data-markdown>
 <script type="text/template">
 
-<<<<<<< HEAD
-## Hyperfocus Workshop
-=======
-## Amplified Textiles Workshop
->>>>>>> a70e86d (wokrshop slides)
+## Hyperfocus Masterclass
 ## at Science Gallery Melbourne!
 
-_*18 October, 2025*_
+_*May 2026*_
 <br>
 <br>
 
@@ -47,16 +43,11 @@ _*18 October, 2025*_
 
 </div>
 
-<<<<<<< HEAD
 
 <div style="display: flex; justify-content: space-between;">
   <span>Artist | Educator | Researcher</span>
   <span><a href="https://snud.me">snud.me</a> || <a href="https://instagram.com/snudart">@snudart</a></span>
 </div>
-=======
-#### Artist | Educator | Researcher [[snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart)]{style="float:right"}
-
->>>>>>> a70e86d (wokrshop slides)
 
 ---
 
@@ -106,62 +97,170 @@ _*18 October, 2025*_
   <img src="/images/touchingwires/mymum.jpg" alt="Image 1" width=25%/>
   <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
 </div>
-<<<<<<< HEAD
 
-=======
->>>>>>> a70e86d (wokrshop slides)
 ---
 
 ### Workshop session overview 
 
-<<<<<<< HEAD
-- Drawing
-=======
-- Blind drawing activity
->>>>>>> a70e86d (wokrshop slides)
-- Introduction to embroidery
-- Introduction to circuits
-- Make and play! 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> a70e86d (wokrshop slides)
----
-
-
-### Blind Contour Drawing
-
-<<<<<<< HEAD
-Draw a computer or digital technology that played an important role in your early life — maybe your first computer, a family gaming console, or even an old mobile phone. Do this without looking at the surface while you draw (you can peek when you’re done!).
-=======
-Draw a computer or digital technology that played an important role in your early life — maybe your first computer, a family gaming console, or even an old mobile phone. Do this without looking at the paper while you draw (you can peek when you’re done!).
->>>>>>> a70e86d (wokrshop slides)
-
+- Introduction
+- Electronic Basics!
+- PureData & Sound synthesis!
+- Embroidery & Sewing! 
+- Make & play! 
 
 ---
 
+### Grounding exericse
 
-### Blind Contour Drawing
+We're going to do a stream of consciousness listening and writing exercise! 
 
-<<<<<<< HEAD
-Once you’ve finished your drawing, take a few minutes to think about:
-=======
-Once you’ve finished your drawing, take a few minutes to write about:
->>>>>>> a70e86d (wokrshop slides)
+Write down everything you hear, what does Boonwurrung Country sound like in this moment? within these walls?
 
-- What is this technology?
+---
+
+### Mindmap
+
+Pick a computer or digital technology that was formative in your life. 
+
+Write it down in the middle of the page. We will create a mindmap around it:
+
 - What role did it play in your life?
+- Who are the people that you engage with through this technology? 
+- How has this technology changed since you first interacted?
 - How do you feel about it now?
 
 Discuss in pairs or small groups if you have time. We will use this memory as a basis for our afternoon workshop making.
 
-<<<<<<< HEAD
+---
 
 
+Materials in front of you:
+- prepared breadboard
+- AUX jack + wires
+- micro-USB cable
+- headphones
 
-=======
->>>>>>> a70e86d (wokrshop slides)
+
+---
+
+### Breadboard
+
+- Electricity is the flow of charged particles from atom to atom. 
+- Breadboards provide channels for this flow to occur.
+
+<img src="/images/slides/breadboard.png" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/>
+
+
+From Raspberry Pi - <a href="https://magazine.raspberrypi.com/articles/breadboard-tutorial">Breadboard tutorial</a>
+
+---
+
+### AUX jack + wires
+
+I bought these switched PCB 3.5mm sockets that have five pins but we only care about two. 
+
+<img src="/images/slides/aux-picture.jpg" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/>
+
+---
+
+### Circuit diagram
+
+Double check wiring.
+
+<div class="image-row">
+  <img src="/images/slides/circuitdiagram.png" alt="Image 1" width=40%/>
+  <img src="/images/slides/breadboard-components.jpg" alt="Image 1" width=50%/>
+</div>
+
+Connect a wire to sensor 0, leaving one exposed end. 
+
+
+---
+
+### PureData (Pd)
+
+PureData is a graphical programming language made for sound making.
+
+Developed by Miller Puckette in 1997. 
+
+<img src="/images/slides/pd.png" alt="puredata" width=60%/>
+
+It's free!
+
+---
+
+### plugdata
+
+plugdata is based on PureData, but helps us convert our Pd patch to C++ code which we can load straight onto the DaisySeed. 
+
+<img src="/images/slides/plugdata.png" alt="plugdata" width=60%/>
+
+---
+
+### Digital Sound Basics
+
+Sound is air moving. 
+
+<img src="/images/slides/sound-diagram.png" alt="puredata" width=60%/>
+
+---
+
+### Digital Sound Basics
+
+Digital sound emulates that with electrical voltage. 
+
+<img src="/images/slides/diagram-digital-sound.png" alt="puredata" width=60%/>
+
+
+---
+
+### Digital Sound in Pd
+
+[osc~ 440] := unit generator that outputs a cosine wave at the frequency given by its argument.
+
+[unit generator] := composable units of signal processing. 
+
+[*~ 0.1] := changing the amplitude to 10% of the maximum.
+
+<img src="/images/slides/osc440_pd.png" alt="puredata" width=10%/>
+
+---
+
+### Plug everything in! 
+
+There should be lights on both the DaisySeed and the MPR121 sensor board. Let me know if there is any issues!
+
+Earbud warning: it's best not to put the earbuds into your ears when you're playing around with your patches. One bug and you could get blasted :(
+
+What happens when you touch sensor 0? 
+
+---
+
+
+<img src="/images/slides/plugdata.png" alt="puredata" width=60%/>
+
+
+---
+
+
+### Try making some other waveforms in plugdata! 
+
+Remember!
+
+- Whenever you flash new code onto the Daisy, you need to hold down the BOOT button, then hold the RESET button, then let go of the RESET button, then let go of the BOOT button. This puts your Daisy into boot mode so it's ready to get new code. 
+
+<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/>
+
+---
+
+### Now any conductive material can be used as a capcitive sensor when wired to this board. 
+
+I used strips of discarded vinyl to hold the copper tape within my sculptures.
+
+---
+
+### Break time before we sew? 
+
 ---
 
 ### Basic Stitches
@@ -194,22 +293,19 @@ Discuss in pairs or small groups if you have time. We will use this memory as a 
 
 ### Make!
 
-<<<<<<< HEAD
 - Add **text or reflections** from earlier discussion.
-=======
-- **Transpose your blind drawing** onto fabric.
-- Add **text or reflections** from this morning’s session.
->>>>>>> a70e86d (wokrshop slides)
 - Think about different **senses** in your memory — how might they influence form, color, or texture?
-- Plan your **copper tape layout**:
-  - Visualize the path of your circuit.
-  - Use **satin stitch** to hide the tape if desired.
+- Embroider your designs, trace the shape around it, backstitch around the border, cut around, stuff them and then squish them! 
 
-<<<<<<< HEAD
 We are here to help! Put your hand up if you need a hand from any of us :) 
 
-=======
->>>>>>> a70e86d (wokrshop slides)
+---
+
+<div class="image-row">
+  <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
+  <img src="/images/slides/SGM 2025-Distraction-Astrid Mulder-Touching Wires-HR-3.jpg" alt="Image 1" width=80%/>
+</div>
+
 ---
 
 ### Thank you! 

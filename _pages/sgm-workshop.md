@@ -1,11 +1,9 @@
 ---
-title: LittlePay Workshop
+title: Oh... What A Joy --- Workshop
 subtitle: ''
-description: Workshop 22 Aug 2025
+description: Workshop May 2026
 featured_image: /images/mybrainfeelsfull.jpg
 ---
-
-This page details the activities outline for the LittlePay workshop at Science Gallery Melbourne on 22 August 2025.
 
 ## Pre-workshop activity 
 

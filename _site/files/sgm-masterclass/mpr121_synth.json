@@ -1,0 +1,10 @@
+{
+    "name": "customseed",
+    "som": "seed",
+    "parents": {
+        "mpr121_driver": {
+           "component": "Mpr121"
+        }
+    }
+}
+
