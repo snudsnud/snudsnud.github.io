@@ -19,4 +19,10 @@ If you have any concerns or questions, we can sort them out on the day of the wo
 
 The workshop will be split into 2 sections, the first focused on programming our own synthesisers and wiring it up to a capacitive sensor, and the second section will be making our actual soft sculptural sensors through sewing and embroidery. Please let the SGM team know if you have any access needs prior to the workshop. 
 
+## Workshop files
+
+Here are the files you will need for today's workshop: [link][1]
+
+[1]:{{ site.url }}/files/sgm-masterclass.zip
+
 ## See you this weekend! 
