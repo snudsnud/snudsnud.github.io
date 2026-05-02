@@ -265,7 +265,11 @@ I used strips of discarded vinyl to hold the copper tape within my sculptures.
 
 ---
 
-### Break time before we sew? 
+### Our task this afternoon
+
+Make a soft sculptural sensor! 
+
+<img src="/images/slides/breadboard+sensor.png" alt="diagram of breadboard channels" align="middle" width=70% style="padding: 5px;"/>
 
 ---
 
