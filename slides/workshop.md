@@ -237,10 +237,10 @@ What happens when you touch sensor 0?
 ---
 
 
-<img src="/images/slides/plugdata.png" alt="puredata" width=60%/>
+<img src="/images/slides/multinoteplugdata.png" alt="puredata" width=60%/>
 
 
----
+<!-- ---
 
 
 ### Try making some other waveforms in plugdata! 
@@ -250,13 +250,18 @@ Remember!
 - Whenever you flash new code onto the Daisy, you need to hold down the BOOT button, then hold the RESET button, then let go of the RESET button, then let go of the BOOT button. This puts your Daisy into boot mode so it's ready to get new code. 
 - When compiling, you will need to use the JSON file in the workshop download. (Found at: snud.me/sgm-masterclass)
 
-<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/>
+<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/> -->
 
 ---
 
 ### Now any conductive material can be used as a capcitive sensor when wired to this board. 
 
 I used strips of discarded vinyl to hold the copper tape within my sculptures.
+
+- Cut a piece of vinyl, and extend the wire at sensor 0 using some copper tape. 
+
+<img src="/images/slides/breadboard.png" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/>
+
 
 ---
 
