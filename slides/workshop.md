@@ -14,8 +14,21 @@ _*May 2026*_
 <br>
 <br>
 
+
+<div style="display: flex; justify-content: space-between;">
+  <span style="text-align: left;">Sandy Ma <br><a href="https://snud.me">snud.me</a> || <a href="https://instagram.com/snudart">@snudart</a></span>
+  <!-- <span style="text-align: right;">Wifi details
+<br>
+Network: Visitor
+<br>
+Username: mcevents1
+<br>
+Password: A6!vwm
+ </span> -->
+</div>
+<!-- 
 #### Sandy Ma
-##### [snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart)
+##### [snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart) -->
 
 ---
 
@@ -240,7 +253,7 @@ What happens when you touch sensor 0?
 <img src="/images/slides/multinoteplugdata.png" alt="puredata" width=60%/>
 
 
-<!-- ---
+---
 
 
 ### Try making some other waveforms in plugdata! 
@@ -250,7 +263,7 @@ Remember!
 - Whenever you flash new code onto the Daisy, you need to hold down the BOOT button, then hold the RESET button, then let go of the RESET button, then let go of the BOOT button. This puts your Daisy into boot mode so it's ready to get new code. 
 - When compiling, you will need to use the JSON file in the workshop download. (Found at: snud.me/sgm-masterclass)
 
-<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/> -->
+<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/>
 
 ---
 

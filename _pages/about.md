@@ -5,7 +5,7 @@ description: CV
 featured_image: /images/headshot_sma.jpg
 ---
 
-b. 2000, Gadigal/Sydney, Australia
+<!-- b. 2000, Gadigal/Sydney, Australia -->
 
 ### EDUCATION
 
