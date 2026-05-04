@@ -46,6 +46,19 @@ Andrew Brown's Youtube Playlist: ["Real-Time Music and Sound with Pure Data"](ht
 
 [Charles Martin's Intro to computer music in Pd](https://github.com/cpmpercussion/ComputerMusicIntro)
 
+## Where I bought everything from
+
+Here is a list of materials used in the workshop and where I purchased them from. The Daisy and MPR121 sensors were both online only (here in Kamberri at least).
+
+- Daisy Seed (US based) ([Electro-smith link](https://electro-smith.com/products/daisy-seed))
+- MPR121 Capacitive Sensor ([Core electronics link](https://core-electronics.com.au/adafruit-12-key-capacitive-touch-sensor-breakout-mpr121.html))
+- Breadboard ([Core electronics link](https://core-electronics.com.au/solderless-breadboard-830-tie-point-zy-102.html))
+- 3.5mm Audio Jack ([Jaycar link](https://www.jaycar.com.au/3-5mm-stereo-switched-pcb-socket/p/PS0133))
+- Jumper wires ([Jaycar link](https://www.jaycar.com.au/breadboard-jumper-kit/p/PB8850))
+- Copper tape ([Bunnings link](https://www.bunnings.com.au/jack-30mm-x-4m-copper-snail-tape_p0807488))
+
+Sewing materials were sourced from Spotlight! 
+
 ## Stay in touch!
 
 Thank you so much for coming to the Hyperfocus workshop! I'm working on trying to get a mailing list in order but in the meantime, please feel free to reach out to me via my Instagram or by email ([sandy@snud.me](mailto:sandy@snud.me)). 
