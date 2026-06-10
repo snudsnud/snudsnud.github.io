@@ -42,4 +42,4 @@ Sewing materials were sourced from Spotlight!
 
 ## Stay in touch!
 
-Thank you so much for coming to the Hyperfocus workshop! I'm working on trying to get a mailing list in order but in the meantime, please feel free to reach out to me via my Instagram or by email ([sandy@snud.me](mailto:sandy@snud.me)). 
+Thank you so much for coming to the workshop! I'm working on trying to get a mailing list in order but in the meantime, please feel free to reach out to me via my Instagram or by email ([sandy@snud.me](mailto:sandy@snud.me)). 
