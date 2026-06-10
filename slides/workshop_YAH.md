@@ -1,0 +1,312 @@
+---
+layout: slides
+title: SGM Artist Talk + Workshop Slides
+permalink: /slides/workshop_YAH/
+---
+
+<section data-markdown>
+<script type="text/template">
+
+## Touching Wires Workshop
+
+_*2026*_
+<br>
+<br>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <span style="text-align: left;">Sandy Ma <br><a href="https://snud.me">snud.me</a> || <a href="https://instagram.com/snudart">@snudart</a></span>
+  <!-- <span style="text-align: right;">Wifi details
+<br>
+Network: Visitor
+<br>
+Username: mcevents1
+<br>
+Password: A6!vwm
+ </span> -->
+</div>
+<!-- 
+#### Sandy Ma
+##### [snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart) -->
+
+---
+
+## Hello! I'm Sandy
+
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+    text-align: left;
+}
+</style>
+
+<div class="container">
+
+<div class="col">
+<img src="/images/slides/cameraobscura.jpg" alt="camera obscura selfie of sandy" />
+</div>
+
+<div class="col">
+<img src="/images/4alab_opening.jpg" alt="sandy, isabelle and impsypi performing at 4a lab" />
+</div>
+
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <span>Artist | Educator | Researcher</span>
+  <span><a href="https://snud.me">snud.me</a> || <a href="https://instagram.com/snudart">@snudart</a></span>
+</div>
+
+---
+
+
+### Touching Wires, 2024
+
+<div class="image-row">
+  <img src="/images/MayPerformance_setup.jpg" alt="Image 1" />
+  <img src="/images/Touching Wires - 02.jpg" alt="Image 2" />
+  <caption><i>Andromeda is Coming and Artificially Intelligent Friends (and human friends), 29/05/2024</i></caption>
+</div>
+
+
+---
+
+### Touching Wires, 2024
+
+<div class="image-row">
+  <img src="/images/4alab_mirroring.jpg" alt="Image 1" />
+  <caption><i>Sandy Ma and Isabelle Laxamana in trialogue with IMPSYpi, 10/10/2024</i></caption>
+</div>
+
+
+---
+
+### Touching Wires
+
+<img src="/images/touchingwires/systemdiagram.jpg" alt="System Diagram" class="center">
+
+
+---
+
+### Touching Wires (Oh... What a joy it is to be held), 2025
+
+<div class="image-row">
+  <img src="/images/touchingwires/Science+Gallery+Melbourne-DISTRACTION-Touching+Wires-Credit+Astrid+Mulder-WEB1080_1.jpg" alt="Image 1" />
+  <caption><i>Touching Wires (Oh… What a joy it is to be held), 2025, installation view at Science Gallery Melbourne. Image credit: Astrid Mulder</i></caption>
+</div>
+
+
+---
+
+### Embroidered memories
+
+<div class="image-row">
+  <img src="/images/touchingwires/clubpenguin.jpg" alt="Image 1" width=25%/>
+  <img src="/images/touchingwires/mymum.jpg" alt="Image 1" width=25%/>
+  <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
+</div>
+
+---
+
+### Workshop session overview 
+
+- Introduction
+- Electronic Basics!
+- PureData & Sound synthesis!
+- Embroidery & Sewing! 
+- Make & play! 
+
+---
+
+### Grounding exericse
+
+We're going to do a stream of consciousness listening and writing exercise! 
+
+Write down everything you hear, what does Kamberri sound like in this moment? within these walls?
+
+---
+
+### Mindmap
+
+Pick a computer or digital technology that was formative in your life. 
+
+Write it down in the middle of the page. We will create a mindmap around it:
+
+- What role did it play in your life?
+- Who are the people that you engage with through this technology? 
+- How has this technology changed since you first interacted?
+- How do you feel about it now?
+
+Discuss in pairs or small groups if you have time. We will use this memory as a basis for our afternoon workshop making.
+
+---
+
+
+Materials in front of you:
+- prepared breadboard
+- AUX jack + wires
+- micro-USB cable
+- headphones
+
+
+<!-- ---
+
+### Breadboard
+
+- Electricity is the flow of charged particles from atom to atom. 
+- Breadboards provide channels for this flow to occur.
+
+<img src="/images/slides/breadboard.png" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/>
+
+
+From Raspberry Pi - <a href="https://magazine.raspberrypi.com/articles/breadboard-tutorial">Breadboard tutorial</a> -->
+
+<!-- ---
+
+### AUX jack + wires
+
+I bought these switched PCB 3.5mm sockets that have five pins but we only care about two. 
+
+<img src="/images/slides/aux-picture.jpg" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/> -->
+
+---
+
+### Circuit diagram
+
+What is going on?!
+
+<div class="image-row">
+  <img src="/images/slides/circuitdiagram.png" alt="Image 1" width=40%/>
+  <img src="/images/slides/breadboard-components.jpg" alt="Image 1" width=50%/>
+</div>
+
+
+
+<!-- ---
+
+### PureData (Pd)
+
+PureData is a graphical programming language made for sound making.
+
+Developed by Miller Puckette in 1997. 
+
+<img src="/images/slides/pd.png" alt="puredata" width=60%/>
+
+It's free! -->
+
+<!-- ---
+
+### plugdata
+
+plugdata is based on PureData, but helps us convert our Pd patch to C++ code which we can load straight onto the DaisySeed. 
+
+<img src="/images/slides/plugdata.png" alt="plugdata" width=60%/> -->
+
+
+
+
+---
+
+### Touch Sensor 0! 
+
+There should be lights on both the DaisySeed and the MPR121 sensor board. Let me know if there is any issues!
+
+Earbud warning: it's best not to put the earbuds into your ears when you're playing around with your patches. One bug and you could get blasted :(
+
+What happens when you touch sensor 0? 
+
+---
+
+
+<img src="/images/slides/multinoteplugdata.png" alt="puredata" width=60%/>
+
+
+---
+
+<!-- 
+### Try making some other waveforms in plugdata! 
+
+Remember!
+
+- Whenever you flash new code onto the Daisy, you need to hold down the BOOT button, then hold the RESET button, then let go of the RESET button, then let go of the BOOT button. This puts your Daisy into boot mode so it's ready to get new code. 
+- When compiling, you will need to use the JSON file in the workshop download. (Found at: snud.me/sgm-masterclass)
+
+<img src="/images/slides/waveforms.png" alt="waveforms" width=70%/>
+
+--- -->
+
+### Now any conductive material can be used as a capcitive sensor when wired to this board. 
+
+I used strips of discarded vinyl to hold the copper tape within my sculptures.
+
+- Cut a piece of vinyl, and extend the wire at sensor 0 using some copper tape. 
+
+<img src="/images/slides/breadboard.png" alt="diagram of breadboard channels" align="middle" width=50% style="padding: 5px;"/>
+
+
+---
+
+### Our task this afternoon
+
+Make a soft sculptural sensor! 
+
+<img src="/images/slides/breadboard+sensor.png" alt="diagram of breadboard channels" align="middle" width=70% style="padding: 5px;"/>
+
+---
+
+### Basic Stitches
+
+<div class="image-row">
+  <img src="/images/slides/stitches/running.png" alt="Image 1" />
+</div>
+
+<caption><i>From Stitched Stories - <a href="https://stitchedstories.com/free-printable-pocket-guide-to-embroidery-stitches/">Embroidery stitches guide</a></i></caption>
+
+---
+
+### Basic Stitches
+
+<div class="image-row">
+  <img src="/images/slides/stitches/back.png" alt="Image 1" />
+  <img src="/images/slides/stitches/satin.png" alt="Image 1" />
+  <img src="/images/slides/stitches/chain.png" alt="Image 1" />
+  <caption><i>From Muse of the Morning - <a href="https://museofthemorning.com/site/free-printable-lil-book-of-hand-embroidery-stitches-pocket-size-stitch-guide/">Embroidery stitches guide</a></i></caption>
+</div>
+
+---
+
+### Reminders about electronics
+
+- Make sure two circuits don't cross over each other! 
+
+---
+
+
+### Make!
+
+- Add **text or reflections** from earlier discussion.
+- Think about different **senses** in your memory — how might they influence form, color, or texture?
+- Embroider your designs, trace the shape around it, backstitch around the border, cut around, stuff them and then squish them! 
+
+We are here to help! Put your hand up if you need a hand from any of us :) 
+
+---
+
+<div class="image-row">
+  <img src="/images/touchingwires/internetsharing.jpg" alt="Image 1" width=25%/>
+  <img src="/images/slides/SGM 2025-Distraction-Astrid Mulder-Touching Wires-HR-3.jpg" alt="Image 1" width=80%/>
+</div>
+
+---
+
+### Thank you! 
+
+<img src="/images/researchmailinglist.png" alt="QR code" class="center">
+
+
+#### Sandy Ma
+##### [snud.me](https://snud.me) || [@snudart](https://instagram.com/snudart)
