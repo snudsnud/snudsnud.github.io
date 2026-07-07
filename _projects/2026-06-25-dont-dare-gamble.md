@@ -10,7 +10,7 @@ featured_image: '/images/touchingwires/Science+Gallery+Melbourne-DISTRACTION-Tou
 
 
 
-***别敢搏，爱无毁 (bié gǎn bó, ài wú huǐ) [don’t dare gamble, love is indestructible]***[^1]
+***别敢搏，爱无毁 (bié gǎn bó, ài wú huǐ) [don’t dare gamble, love is indestructible]***
 
 **2026**
 
