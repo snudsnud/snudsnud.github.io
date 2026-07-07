@@ -32,11 +32,11 @@ other
 
 ### SELECT EXHIBITIONS
 
+| 2026                            | [HAUNTED TREASURES](https://www.canberracontemporary.com.au/current-platform) <br /> Platform by Canberra Contemporary, Canberra ACT.|
 | 2025                            | [DISTRACTION](https://melbourne.sciencegallery.com/distraction) <br /> Science Gallery Melbourne, Melbourne VIC. |
 | 2024                            | [*Touching Wires*](https://4a.com.au/exhibitions/touching-wires) <br /> 4A LAB, 4A Centre for Contemporary Asian Art, Sydney NSW. |
 
 ### SELECT PERFORMANCES
-
 
 | 2024 | [***Touching Wires***](https://youtu.be/yzJ4E2CvqNI)<br /><br /> *Sandy Ma & Isabelle Laxamana & IMPSYpi*, 4A Centre for Contemporary Asian Art, Sydney. |
 | 2024 | [***Unspoken***](https://www.youtube.com/live/Vrywo3fpALw?si=i8QQRX5IDzOynyyZ&t=4463) <br /><br /> *Yichen Wang & Sandy Ma*, International Conference on New Interfaces for Musical Expression, Utrecht, Netherlands. |
