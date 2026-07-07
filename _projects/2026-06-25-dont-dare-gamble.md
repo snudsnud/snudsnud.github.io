@@ -2,7 +2,7 @@
 title:  "别敢搏，爱无毁 (bié gǎn bó, ài wú huǐ) [don’t dare gamble, love is indestructible] (2026)"
 date: 2026-06-25 00:00:00
 description: 别敢搏，爱无毁 (bié gǎn bó, ài wú huǐ) [don’t dare gamble, love is indestructible] (2026).
-featured_image: '/images/HAUNTEDTREASURES_HR-2.jpg'
+featured_image: '/images/HAUNTEDTREASURES.jpg'
 ---
 
 
@@ -19,4 +19,4 @@ Computational systems of perceived autonomy, where feedback is provided to a hum
 
 What happens when we soften the most blatant example of an extractive computer system? What happens when we visibly handcraft a pokies machine? 
 
-![Photography by Fiona Little courtesy of Canberra Contemporary.](/images/HAUNTEDTREASURES_HR-2.jpg)
+![Photography by Fiona Little courtesy of Canberra Contemporary.](/images/HAUNTEDTREASURES.jpg)
