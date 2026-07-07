@@ -13,6 +13,8 @@ featured_image: '/images/attractwealth-crop.jpg'
 
 **wool yarn & chains**
 
+---------------------
+
 Why are all the pokies machines so Chinese?
 
 ![Photography by Miah-Tya Nungheena Gowland](/images/attractwealth.jpg)
