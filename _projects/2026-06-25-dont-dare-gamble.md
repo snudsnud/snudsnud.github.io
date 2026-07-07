@@ -6,7 +6,7 @@ featured_image: '/images/touchingwires/Science+Gallery+Melbourne-DISTRACTION-Tou
 ---
 
 
-![Photography by Fiona Little courtesy of Canberra Contemporary.](/images/touchingwires/Science+Gallery+Melbourne-DISTRACTION-Touching+Wires-Credit+Astrid+Mulder-WEB1080_1.jpg)
+![Photography by Fiona Little courtesy of Canberra Contemporary.](images/HAUNTED TREASURES_HR-2.jpg)
 
 
 
