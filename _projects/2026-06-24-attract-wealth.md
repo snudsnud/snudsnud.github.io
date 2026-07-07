@@ -2,7 +2,7 @@
 title:  "ATTRACT WEALTH! (2026)"
 date: 2026-06-24 00:00:00
 description: ATTRACT WEALTH!.
-featured_image: '/images/attractwealth-crop.jpg
+featured_image: '/images/attractwealth-crop.jpg'
 ---
 
 
