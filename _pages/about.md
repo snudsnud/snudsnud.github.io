@@ -23,7 +23,10 @@ ongoing
 
 other 
 
-| 2025  | Human Computer Interaction, Tutor, Australian National University, Kamberri/Canberra ACT. |
+| 2026  | Touching Wires Workshop, Facilitator, You Are Here Canberra, Kamberri/Canberra ACT. |
+| 2026  | Hyperfocus Masterclass, Facilitator, Science Gallery Melbourne, Naarm/Melbourne VIC. |
+| 2025  | Hyperfocus Workshop, Facilitator, Science Gallery Melbourne, Naarm/Melbourne VIC. |
+| 2025/26  | Human Computer Interaction, Tutor, Australian National University, Kamberri/Canberra ACT. |
 | 2025  | [AnOther Home](https://rebustheatre.com/programs/another-home/), Artist Facilitator, Rebus Theatre, Kamberri/Canberra ACT. |
 | 2025  | Creative Computing (EXTN1019), Teacher, Australian National University, Kamberri/Canberra ACT. |
 | 2023/25  | Sound and Music Computing, Tutor, Australian National University, Kamberri/Canberra ACT. |
@@ -33,11 +36,15 @@ other
 ### SELECT EXHIBITIONS
 
 | 2026                            | [HAUNTED TREASURES](https://www.canberracontemporary.com.au/current-platform) <br /> Platform by Canberra Contemporary, Canberra ACT.|
+| 2026                            | [Please Touch The Art!](https://events.humanitix.com/please-touch-the-art) <br /> Goodspace Gallery, Sydney NSW. |
 | 2025                            | [DISTRACTION](https://melbourne.sciencegallery.com/distraction) <br /> Science Gallery Melbourne, Melbourne VIC. |
 | 2024                            | [*Touching Wires*](https://4a.com.au/exhibitions/touching-wires) <br /> 4A LAB, 4A Centre for Contemporary Asian Art, Sydney NSW. |
 
 ### SELECT PERFORMANCES
 
+| 2026 | Touching Wires<br /><br /> *Sandy Ma* supporting vegetable.machine.animal, You Are Here Canberra, Canberra. |
+| 2026 | [***words, noise, noise***](https://www.youtube.com/live/kEwZRy8eb0E?si=heYILBitc6U8z4Y4&t=1323)<br /><br /> *Andrew Cox, Kian Macleod, Sandy Ma*, SMCClab Live #2, ANU School of Music, Canberra. |
+| 2025 | [***Webcam Duet***](https://youtu.be/S_JuZUTmwbk?si=7s3hYtlotUO0_hdK&t=1633)<br /><br /> *Sandy Ma & Suhani Narang*, SMCClab Live #1, ANU School of Music, Canberra. |
 | 2024 | [***Touching Wires***](https://youtu.be/yzJ4E2CvqNI)<br /><br /> *Sandy Ma & Isabelle Laxamana & IMPSYpi*, 4A Centre for Contemporary Asian Art, Sydney. |
 | 2024 | [***Unspoken***](https://www.youtube.com/live/Vrywo3fpALw?si=i8QQRX5IDzOynyyZ&t=4463) <br /><br /> *Yichen Wang & Sandy Ma*, International Conference on New Interfaces for Musical Expression, Utrecht, Netherlands. |
 | 2024 | [***Touching Wires—Demo***](https://youtu.be/86yEZquWsPs?si=tWm7FaehyENGbVrU) <br /><br /> *Andromeda is Coming and Artificially Intelligent Friends, feat. Yichen Wang & Sandy Ma*, Llewellyn Hall, Canberra. |
