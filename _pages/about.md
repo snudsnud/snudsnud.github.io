@@ -52,7 +52,12 @@ other
 | 2022 | [***Dialogues in Space (A response to the big wide realm of nothingness in the sky)***](https://www.youtube.com/watch?v=3aZNt6G2dko) <br /><br /> *LENS22 Prophets*, ANU Laptop Ensemble, Llewellyn Hall, Canberra. |
 
 
+### AWARDS
 
+
+| 2026             | ***Finalist*** in Education/Research Category, Women Leading Tech Awards by B&T                                    |
+| 2025             | ***Highly Commended*** in Excellence in Tutoring or Demonstrating, ANU College of Systems and Society Education Awards   |
+| 2025             | ***Highly Commended*** in Supporting Inclusion, Diversity, Equity, and Accessibility (IDEA) in learning and teaching, ANU College of Systems and Society Education Awards   |
 
 ### MEDIA
 
