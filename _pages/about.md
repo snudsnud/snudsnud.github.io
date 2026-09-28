@@ -35,6 +35,7 @@ other
 
 ### SELECT EXHIBITIONS
 
+| 2026                            | [Everyone Tells Me How Much I Look Like You](https://www.anca.net.au/2026-exhibition-program/2026/9/4/everyone-tells-me-how-much-i-look-like-you) <br /> ANCA Gallery, Canberra ACT.|
 | 2026                            | [HAUNTED TREASURES](https://www.canberracontemporary.com.au/current-platform) <br /> Platform by Canberra Contemporary, Canberra ACT.|
 | 2026                            | [Please Touch The Art!](https://events.humanitix.com/please-touch-the-art) <br /> Goodspace Gallery, Sydney NSW. |
 | 2025                            | [DISTRACTION](https://melbourne.sciencegallery.com/distraction) <br /> Science Gallery Melbourne, Melbourne VIC. |
