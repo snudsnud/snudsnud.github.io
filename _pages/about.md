@@ -35,9 +35,10 @@ other
 
 ### SELECT EXHIBITIONS
 
-| 2026                            | [Everyone Tells Me How Much I Look Like You](https://www.anca.net.au/2026-exhibition-program/2026/9/4/everyone-tells-me-how-much-i-look-like-you) <br /> ANCA Gallery, Canberra ACT.|
-| 2026                            | [HAUNTED TREASURES](https://www.canberracontemporary.com.au/current-platform) <br /> Platform by Canberra Contemporary, Canberra ACT.|
-| 2026                            | [Please Touch The Art!](https://events.humanitix.com/please-touch-the-art) <br /> Goodspace Gallery, Sydney NSW. |
+| 2026                            | [Bespoke Utopia](https://www.m16artspace.com.au/2026-exhibitions/bespoke-utopia) <br /> M16 Artspace, Canberra ACT.|
+|                             | [Everyone Tells Me How Much I Look Like You](https://www.anca.net.au/2026-exhibition-program/2026/9/4/everyone-tells-me-how-much-i-look-like-you) <br /> ANCA Gallery, Canberra ACT.|
+|                             | [HAUNTED TREASURES](https://www.canberracontemporary.com.au/current-platform) <br /> Platform by Canberra Contemporary, Canberra ACT.|
+|                             | [Please Touch The Art!](https://events.humanitix.com/please-touch-the-art) <br /> Goodspace Gallery, Sydney NSW. |
 | 2025                            | [DISTRACTION](https://melbourne.sciencegallery.com/distraction) <br /> Science Gallery Melbourne, Melbourne VIC. |
 | 2024                            | [*Touching Wires*](https://4a.com.au/exhibitions/touching-wires) <br /> 4A LAB, 4A Centre for Contemporary Asian Art, Sydney NSW. |
 
